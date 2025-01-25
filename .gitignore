@@ -1,0 +1,6 @@
+.venv
+.env
+presences.csv
+data.json
+__pycache__
+*.out

@@ -1,0 +1,5 @@
+{
+  "contextLimit": 8,
+  "defaultSystem": "You are an assistant.",
+  "tokenLimit": 10000
+}
