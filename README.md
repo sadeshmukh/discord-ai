@@ -6,13 +6,14 @@ You can add the bot to test it [here](https://discord.com/oauth2/authorize?clien
 ## Configuration
 You must include the TOKEN environment variable (this is your discord bot token).
 You must include at least one of the following env variables in your .env file:
-GEMINI_API_KEY=
-OPENAI_API_KEY=
-ANTHROPIC_API_KEY=
+- GEMINI_API_KEY=
+- OPENAI_API_KEY=
+- ANTHROPIC_API_KEY=
+
 You may include the following in your .env file (you should probably at your user ID as an ADMIN user).
-ADMIN_USERS=
-DISCORD_INVITE=
-HIDDEN_GUILDS=
+- ADMIN_USERS=
+- DISCORD_INVITE=
+- HIDDEN_GUILDS=
 
 Additionally, you should edit your models.json file to reflect which models your bot supports.
 
